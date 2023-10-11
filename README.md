@@ -5,6 +5,8 @@ Dashboard III link https://public.tableau.com/views/DashboardIII_16966092622800/
 Story I link https://public.tableau.com/views/StoryI_16966094114130/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
 Story II link
 https://public.tableau.com/views/StoryII/Story2?:language=en-GB&:display_count=n&:origin=viz_share_link
+Data set link
+https://drive.google.com/file/d/1GFaQFRuccOHCnZKik_Rpfn5CUao8_INJ/view?usp=drive_link
 
 
 
